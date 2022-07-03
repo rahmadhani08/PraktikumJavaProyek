@@ -63,7 +63,7 @@
           <component id="d28cf" class="javax.swing.JButton" binding="batalButton">
             <constraints/>
             <properties>
-              <text value="Button"/>
+              <text value="Batal"/>
             </properties>
           </component>
         </children>
